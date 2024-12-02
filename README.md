@@ -1,6 +1,6 @@
 # AI Newsletter Subscription
 
-A modern newsletter subscription application built with React, TypeScript, and Supabase.
+A modern newsletter subscription template built with React, TypeScript, and Supabase.
 
 ## Setup Instructions
 
